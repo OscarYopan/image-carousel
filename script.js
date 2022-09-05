@@ -39,9 +39,3 @@ leftBtn.addEventListener('click', () => {
   changeImage()
   resetInterval()
 })
-
-rigthBtn.addEventListener('scroll', () => {
-  idx++
-  changeImage()
-  resetInterval()
-})
